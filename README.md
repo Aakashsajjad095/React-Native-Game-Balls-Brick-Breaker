@@ -1,5 +1,23 @@
-# Balls Brick Breaker
+🎮🕹️ Balls Brick Breaker
 Welcome to Balls Brick Breaker, a classic arcade game brought to life with React Native!
+
+
+
+
+# 📱 Balls Brick Breaker Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img src="https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Breaker/assets/126466072/55ee7406-792d-4212-8752-57bdf6efa93b" alt="Screenshot 1" width="200" style="margin: 30px;" />
+    <img src="https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Breaker/assets/126466072/1f7616d6-7515-4209-8c7f-9b57e92b2fce" alt="Screenshot 2" width="200" style="margin: 30px;" />
+    <img src="https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Breaker/assets/126466072/cf5232a0-b588-4532-a3f8-27fa6f412ba5" alt="Screenshot 3" width="200" style="margin: 30px;" />
+    <img src="https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Breaker/assets/126466072/3ee2611b-172f-40fe-bdb6-01f1ae962c3e" alt="Screenshot 4" width="200" style="margin: 30px;" />
+    <img src="https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Breaker/assets/126466072/782e1466-5a94-41dd-9baa-43b722497901" alt="Screenshot 5" width="200" style="margin: 30px;" />
+    <img src="https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Breaker/assets/126466072/2a4a9b48-740c-46f0-8817-a7bce2920361" alt="Screenshot 6" width="200" style="margin: 30px;" />
+</div>
+
+
+
+
 
 ## Quick Start iOS
 
