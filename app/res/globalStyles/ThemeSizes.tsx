@@ -1,8 +1,5 @@
 import { sizeFont } from "../../src/utils/sizeUtils";
 import { fonts } from "./Fonts";
-// const { width, height } = Dimensions.get("window");
-// import {sizeWidth,sizeFont} from '../../src/utils/size';
-// import {fonts} from '../style/fonts'
 
 export const SIZES = {
 
