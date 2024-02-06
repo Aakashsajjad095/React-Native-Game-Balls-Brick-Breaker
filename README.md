@@ -26,9 +26,12 @@ git clone https://github.com/Aakashsajjad095/React-Native-Game-Balls-Brick-Break
 
 cd Balls-Brick-Breaker
 
-yarn
+npm install or yarn install
 
-yarn ios
+cd ios
+
+pod deintegrate
+pod install
 
 ```
 
