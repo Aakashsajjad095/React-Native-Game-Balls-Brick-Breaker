@@ -27,7 +27,6 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    // Add your styles for the main content container here
   },
 });
 
